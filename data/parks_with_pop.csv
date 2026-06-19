@@ -1,0 +1,104 @@
+Metro,Park,Lat,Lng,Acres,Pop_100mi,Counties_100mi,Miles_to_Downtown,Notes
+Minneapolis-St. Paul,Como Regional Park,44.981,-93.1495,384.0,5229128,49,5.6,User original; lake + zoo + conservatory + golf course
+Minneapolis-St. Paul,Theodore Wirth Park,44.9858,-93.321,759.0,5050728,47,2.8,"Largest regional park in city; bike trails, golf course on one side"
+Minneapolis-St. Paul,Minnehaha Regional Park,44.9153,-93.211,193.0,5209531,49,5.1,Iconic waterfall; light rail station; ~5mi from downtown
+Minneapolis-St. Paul,Powderhorn Park,44.943,-93.254,65.0,5209531,49,2.5,Smaller; central S Mpls; hosts MayDay festival
+Denver,City Park,39.7461,-104.9486,314.0,5105483,24,2.3,User original; zoo + museum + lake + golf adjacent
+Denver,Sloan's Lake Park,39.7497,-105.05,290.0,5126263,25,3.3,Lake-centered; west of downtown
+Denver,Washington Park,39.6989,-104.97,165.0,5126263,25,3.0,Lake + flower gardens; high-density neighborhood
+Denver,Cheesman Park,39.7333,-104.9648,80.0,5126263,25,1.4,Former cemetery; central; smaller
+Charlotte,Freedom Park,35.1965,-80.84,98.0,8497467,61,2.1,Most-visited Charlotte park; festival venue; central
+Charlotte,Reedy Creek Park,35.264,-80.733,727.0,8341903,63,6.7,Large nature preserve; suburban NE
+Charlotte,McAlpine Creek Park,35.128,-80.74,462.0,8441218,60,9.0,Greenway hub; SE Charlotte
+Charlotte,Romare Bearden Park,35.2275,-80.847,5.4,8597723,63,0.2,Uptown; too small as host but flagship Uptown park
+St. Louis,Forest Park,38.6357,-90.2845,1326.0,4041288,58,4.6,User original; massive; has golf + zoo + museums
+St. Louis,Tower Grove Park,38.6086,-90.251,289.0,4053071,59,3.1,Victorian park; central; tree canopy
+St. Louis,Carondelet Park,38.565,-90.257,180.0,4046764,58,5.3,S city; two lakes; historic
+St. Louis,Creve Coeur Lake Park,38.71,-90.48,2156.0,3984764,56,16.2,Largest STL Co park; lake; ~15mi out
+Austin,Zilker Park,30.2669,-97.7729,351.0,6716623,37,1.8,User original; ACL festival venue; central; on Town Lake
+Austin,Pease District Park,30.286,-97.757,84.0,6716623,37,1.5,Linear creek park; downtown adjacent
+Austin,Mueller Lake Park,30.296,-97.705,30.0,6716623,37,3.0,New-urbanist redev; central; too small for host event alone
+Austin,Festival Beach,30.254,-97.725,22.0,6712060,36,1.4,Lakeside; central; small
+Chicago,Grant Park,41.8757,-87.6189,319.0,13324180,43,0.6,User original; lakefront; Lollapalooza venue; transit-saturated
+Chicago,Lincoln Park,41.9214,-87.6336,1208.0,13324180,43,3.0,Largest in city; lakefront; zoo + conservatory
+Chicago,Humboldt Park,41.9039,-87.7053,207.0,13324180,43,4.3,User mentioned; lagoon + fieldhouse; W side
+Chicago,Jackson Park,41.7806,-87.578,543.0,13385361,46,7.2,S side; lakefront; Olmsted-designed
+Chicago,Washington Park,41.792,-87.6166,367.0,13376910,45,6.0,S side; large flat meadow; Olmsted-designed
+Dallas-Fort Worth,Trinity Park,32.743,-97.355,252.0,9543235,39,32.5,User original; Fort Worth; Trinity River; central
+Dallas-Fort Worth,White Rock Lake Park,32.833,-96.722,1015.0,9897489,39,5.8,Lake + trail; E Dallas; iconic
+Dallas-Fort Worth,Reverchon Park,32.805,-96.812,36.0,9897489,39,2.1,Uptown Dallas; small
+Dallas-Fort Worth,Trinity Forest,32.729,-96.717,6000.0,9897489,39,5.7,Largest urban hardwood forest in US; S Dallas
+Houston,Memorial Park,29.7644,-95.4444,1466.0,8902611,29,4.5,User original; massive; central; golf course on E side
+Houston,Hermann Park,29.718,-95.39,445.0,8884160,28,3.2,Museum district; zoo; central
+Houston,Buffalo Bayou Park,29.76,-95.395,160.0,8884160,28,1.5,Linear; downtown adjacent
+Houston,Discovery Green,29.753,-95.3596,12.0,8884160,28,0.8,User original; downtown; too small alone
+San Antonio,Brackenridge Park,29.4625,-98.473,343.0,5707751,33,2.9,User original; zoo; San Antonio River; central
+San Antonio,Hardberger Park,29.565,-98.505,330.0,5712152,34,9.8,Land bridge; NW suburb
+San Antonio,McAllister Park,29.552,-98.452,976.0,5707751,33,9.2,Largest SA park; NE; suburban
+Portland OR,Washington Park,45.5117,-122.716,410.0,3967133,24,1.8,User original; zoo + arboretum; MAX light rail
+Portland OR,Mount Tabor Park,45.511,-122.595,191.0,3967133,24,4.0,Extinct volcano cone; iconic SE
+Portland OR,Laurelhurst Park,45.522,-122.624,26.0,3967133,24,2.7,Historic urban park; small
+Pittsburgh,Schenley Park,40.4357,-79.9417,456.0,5955906,55,2.9,User original; near CMU/Pitt; ravines
+Pittsburgh,Frick Park,40.438,-79.9,644.0,5966877,56,5.0,Largest in city; wooded ravines; E end
+Pittsburgh,Highland Park,40.481,-79.923,380.0,5985921,55,4.7,Reservoir + zoo entrance; E end
+Pittsburgh,Riverview Park,40.483,-80.022,251.0,5955906,55,3.2,N side; observatory; less central
+Cincinnati,Devou Park,39.085,-84.535,700.0,8223675,91,1.8,User original; Covington KY; skyline views
+Cincinnati,Eden Park,39.1135,-84.494,186.0,9524555,91,1.2,Art museum; reservoir; central E
+Cincinnati,Mt Airy Forest,39.19,-84.575,1471.0,9888769,91,6.9,Largest urban forest; less central NW
+Cincinnati,Ault Park,39.13,-84.418,224.0,8700556,94,5.4,Pavilion; gardens; observation deck
+Kansas City,Penn Valley Park,39.0855,-94.5882,176.0,3213914,54,1.1,User original; near Crown Center; central
+Kansas City,Swope Park,38.993,-94.532,1805.0,3233838,55,7.8,Largest in city; zoo; S side
+Kansas City,Loose Park,39.042,-94.595,75.0,3228937,55,4.1,Country Club Plaza adjacent; rose garden
+Kansas City,Kessler Park,39.118,-94.555,240.0,3224064,55,1.8,User original; cliffside; NE
+Columbus OH,Franklin Park,39.97,-82.956,88.0,6551834,64,2.3,User original; Conservatory; central E
+Columbus OH,Antrim Park,40.075,-83.027,116.0,6589010,63,8.0,Lake + trails; N suburbs
+Columbus OH,Goodale Park,39.974,-83.009,32.0,7389193,65,1.0,Short North; historic; small
+Columbus OH,Schiller Park,39.945,-82.992,23.0,7402068,66,1.2,German Village; small
+Indianapolis,Garfield Park,39.732,-86.14,136.0,6656926,80,2.7,Conservatory + sunken gardens; S
+Indianapolis,White River State Park,39.768,-86.173,250.0,6520373,79,0.8,Downtown; museums; canal
+Indianapolis,Holliday Park,39.865,-86.174,94.0,6085422,79,6.7,Riverside; ruins; N side
+Indianapolis,Eagle Creek Park,39.846,-86.295,5300.0,5111205,77,9.0,Largest; reservoir; W far out
+Raleigh,Dorothea Dix Park,35.771,-78.666,308.0,6514545,59,1.7,Former hospital; central; redev
+Raleigh,Pullen Park,35.782,-78.658,66.0,6530177,60,1.1,Historic; central; small
+Raleigh,Lake Wheeler Park,35.714,-78.67,150.0,6496265,59,4.9,S Raleigh; lake-focused
+Raleigh,Umstead State Park,35.88,-78.756,5580.0,6233797,58,9.6,Between Raleigh + Durham; pine forest
+Oklahoma City,Scissortail Park,35.453,-97.518,70.0,3080739,39,1.0,New downtown park; stage; central
+Oklahoma City,Will Rogers Park,35.504,-97.561,130.0,2387225,38,3.6,Gardens; central NW
+Oklahoma City,Lake Hefner,35.545,-97.59,2500.0,2418053,37,6.8,Reservoir-focused; NW
+Grand Rapids,Millennium Park,42.929,-85.756,1400.0,4428515,38,5.0,Lakes + trails; SW; ex-gravel pit reclaimed
+Grand Rapids,John Ball Park,42.966,-85.705,100.0,4469749,40,1.9,Zoo; central W
+Grand Rapids,Riverside Park,43.008,-85.65,87.0,4548232,40,3.2,Grand River; N
+Rochester NY,Highland Park,43.133,-77.608,150.0,3783352,26,1.6,User original; Lilac Festival; Olmsted
+Rochester NY,Genesee Valley Park,43.124,-77.64,800.0,3716280,25,2.7,Olmsted; river; U of R adjacent
+Rochester NY,Cobbs Hill Park,43.148,-77.566,109.0,3783352,26,2.2,Reservoir hill; views; E
+Rochester NY,Durand Eastman Park,43.23,-77.54,965.0,3726661,24,6.1,Lake Ontario; far NE
+Tulsa,Gathering Place,36.123,-95.976,100.0,3701918,41,2.3,Riverside; major recent build; downtown adjacent
+Tulsa,Mohawk Park,36.236,-95.91,2800.0,3473926,42,7.3,Largest; zoo + nature center; N
+Tulsa,LaFortune Park,36.09,-95.917,270.0,3701918,41,6.1,Central S; trails + golf
+Tulsa,Woodward Park,36.127,-95.971,45.0,3710316,42,2.2,Rose garden; central; small
+Riverside-San Bernardino,Fairmount Park,33.999,-117.392,200.0,20970627,5,3.2,Riverside; lake; Olmsted-Vaux
+Riverside-San Bernardino,Mt Rubidoux Park,33.975,-117.396,161.0,20970627,5,1.5,Hill summit; central Riverside
+Detroit,Belle Isle Park,42.338,-82.981,982.0,9285846,33,3.3,Island in Detroit River; state park; central
+Detroit,Palmer Park,42.422,-83.108,296.0,9256278,34,7.0,Wooded; N Detroit; historic
+Detroit,River Rouge Park,42.37,-83.248,1184.0,8175531,36,10.7,Largest in city; W side; less central
+San Diego,Balboa Park,32.732,-117.145,1200.0,8999167,3,1.5,Zoo + museums; central; iconic
+San Diego,Mission Bay Park,32.778,-117.227,4235.0,8999167,3,5.8,Largest aquatic park; W
+San Diego,Presidio Park,32.756,-117.198,50.0,8999167,3,3.5,Historic; small
+Atlanta,Piedmont Park,33.786,-84.3735,200.0,9333729,90,2.7,User original; central; festival venue
+Atlanta,Centennial Olympic Park,33.76,-84.393,21.0,9520457,92,0.8,Downtown; small
+Atlanta,Grant Park (ATL),33.737,-84.37,131.0,9399155,91,1.3,S of downtown; zoo
+New York City,Central Park,40.7829,-73.9654,843.0,30282941,49,5.3,User original; iconic; transit-saturated
+New York City,Prospect Park,40.6602,-73.969,526.0,30066082,48,4.1,Brooklyn; Olmsted; lakes
+Washington DC,National Mall,38.8895,-77.0228,309.0,13786109,76,1.4,User original; iconic; transit-saturated
+Washington DC,Rock Creek Park,38.958,-77.047,1754.0,14174185,76,3.6,Largest in DC; wooded; less transit
+Washington DC,Anacostia Park,38.877,-76.97,1200.0,14353626,76,4.2,River; SE; less developed
+Boston,Franklin Park,42.301,-71.087,527.0,11167187,31,4.3,Largest in Boston; Olmsted Emerald Necklace
+Boston,Boston Common + Public Garden,42.355,-71.066,75.0,11167187,31,0.5,Iconic; downtown; small
+Philadelphia,Fairmount Park,39.987,-75.216,2052.0,30937077,59,3.6,Largest urban park system; Schuylkill
+Philadelphia,FDR Park,39.907,-75.184,348.0,29211492,55,3.3,S Philly; lakes
+Seattle,Discovery Park,47.658,-122.42,534.0,5702783,17,5.4,Largest Seattle park; bluffs
+Seattle,Lincoln Park,47.531,-122.397,135.0,5821565,19,6.0,Puget Sound; W Seattle
+Seattle,Volunteer Park,47.63,-122.316,48.0,5678538,16,1.8,Capitol Hill; central; small
+Phoenix,Encanto Park,33.473,-112.089,222.0,6573193,5,1.9,Central; lagoon
+Phoenix,Papago Park,33.453,-111.943,1500.0,6573193,5,7.6,Zoo + botanical garden; red buttes; E
+Phoenix,South Mountain Park,33.35,-112.047,16000.0,6573193,5,7.0,Largest municipal park in US; mountainous
